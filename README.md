@@ -10,4 +10,4 @@ Features of dynamic driverclass project:-
   *CommonApi method= in this package we are use Given,When,Then method
   *Test class = this are same as postman Test Api. In this Package we arr dobe the parse requestbody,Parse Responsebody  and also validate the Response body parameter
   *Driverclass= This are same as Postman Collection Runner .this are the main method by using this package we are give the result.
-  *Dynamic method= By using Dynamic Package we are run the all calss in single time.
+  *Dynamic method= By using Dynamic class we are run the all class in single time.
